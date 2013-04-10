@@ -1,4 +1,4 @@
-basic-practice
+基礎演習手順書
 ==============
 
-基礎演習用手順書
+[Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
