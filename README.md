@@ -11,8 +11,8 @@ HTML の書き方
 ### HTML5
 先ず、HTML 5 のテンプレートについて触れる。
 
-> 演習 1. HTML5 のテンプレートから HTML ファイルを作成表示の確認を行う.
->> [HTML5 テンプレート](template/html5.html)
+> ### 演習 1. HTML5 のテンプレートから HTML ファイルを作成表示の確認を行う.
+> [HTML5 テンプレート](template/html5.html "test")
 
 
 
