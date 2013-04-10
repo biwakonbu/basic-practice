@@ -26,7 +26,8 @@ HTML 5 では、ファイルの先頭の記述が
 に変更されている事にも注意する.
 
 > ### 演習 2. CSS の初期化を行う
-> CSS 読み込み用のタグを演習 1 のファイルの ``<head></head>`` 内に追記する. 追記タグと要素: ``<link rel="stylesheet" href="initialize.css">``
+> CSS 読み込み用のタグを演習 1 のファイルの ``<head></head>`` 内に追記する.
+> 追記タグと要素: ``<link rel="stylesheet" href="initialize.css">``
 >
 > [CSS 初期化ファイル](template/initialize.css)
 
