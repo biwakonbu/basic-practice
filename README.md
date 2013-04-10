@@ -14,6 +14,4 @@ HTML の書き方
 > ### 演習 1. HTML5 のテンプレートから HTML ファイルを作成表示の確認を行う.
 > [HTML5 テンプレート](template/html5.html "test")
 
-
-
 [Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
