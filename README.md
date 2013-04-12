@@ -26,7 +26,7 @@ HTML 5 では、ファイルの先頭の記述が
 に変更されている事にも注意する.
 
 > ### 演習 2. CSS の初期化を行う
-> 演習 1 のファイルの ``<head></head>`` 内に ``<link rel="stylesheet" href="initialize.css">`` を記述する.
+> 演習 1 のファイルの ``<head></head>`` 内に ``<link rel="stylesheet" href="css/initialize.css">`` を記述する.
 >
 > [CSS 初期化ファイル](template/initialize.css)
 
