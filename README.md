@@ -44,3 +44,7 @@ CSS は, ブラウザ毎に仕様と設定が異なる為, 予期しない動作
 > 下記リンクは Twitter Bootstrap の Official Page である.
 >
 > [Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
+
+Twitter Bootstrap を読み込む為のテンプレートは Official Page の HTML
+template という項目にサンプルが存在する為, 読み込み方がわからない場合
+は参照する事.
