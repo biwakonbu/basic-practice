@@ -26,7 +26,8 @@ HTML 5 では、ファイルの先頭の記述が
 に変更されている事にも注意する.
 
 > ### 演習 2. CSS の初期化を行う
-> 演習 1 のファイルの ``<head></head>`` 内に ``<link rel="stylesheet" href="css/initialize.css">`` を記述する.
+> 演習 1 で作成したファイルに CSS 読み込みの記述を行う事.
+> 尚, 以降の演習での編集ファイルは全て同じものを指す.
 >
 > [CSS 初期化ファイル](template/initialize.css)
 
@@ -35,6 +36,11 @@ CSS は, ブラウザ毎に仕様と設定が異なる為, 予期しない動作
 がある. その為, あらかじめ設定を初期化して置く事で予期しないレイアウト
 になる事を防ぐ事が出来る.
 
-
-
-[Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
+> ### 演習 3. Twitter Bootstrap の読み込みを行う.
+> Bootstrap のダウンロードを行なう.
+> ファイルは zip 形式で圧縮されている為, 伸長を行い, 適切な場所にファイルを配置する.
+> ファイルを配出来たなら, ``CSS/bootstrap.min.css``, ``bootstrap.min.js``
+> の両ファイルを読み込む事.
+> 下記リンクは Twitter Bootstrap の Official Page である.
+>
+> [Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
