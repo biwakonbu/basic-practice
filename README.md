@@ -19,15 +19,22 @@ HTML 5 では、ファイルの先頭の記述が
 <!DOCTYPE html>
 ``
 に変わっている事に注意する事.
-また、使用する文字のエンコーディングの指定は 
+また、使用する文字のエンコーディングの指定は
 ``
 <meta charset="utf-8" />
 ``
 に変更されている事にも注意する.
 
 > ### 演習 2. CSS の初期化を行う
-> CSS 読み込み用のタグを演習 1 のファイルの ``<head></head>`` 内に追記する.</br>
-> 追記タグと要素: ``<link rel="stylesheet" href="initialize.css">``</br>
+> 演習 1 のファイルの ``<head></head>`` 内に ``<link rel="stylesheet" href="initialize.css">`` を記述する.
+>
 > [CSS 初期化ファイル](template/initialize.css)
+
+``<link>`` タグでは外部ファイルから CSS を読み込む事が出来る.
+CSS は, ブラウザ毎に仕様と設定が異なる為, 予期しない動作を引き起こす事
+がある. その為, あらかじめ設定を初期化して置く事で予期しないレイアウト
+になる事を防ぐ事が出来る.
+
+
 
 [Twitter Bootstrap](http://twitter.github.io/bootstrap/index.html)
