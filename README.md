@@ -39,7 +39,7 @@ CSS は, ブラウザ毎に仕様と設定が異なる為, 予期しない動作
 > ### 演習 3. Twitter Bootstrap の読み込みを行う.
 > Bootstrap のダウンロードを行なう.
 > ファイルは zip 形式で圧縮されている為, 伸長を行い, 適切な場所にファイルを配置する.
-> ファイルを配出来たなら, ``CSS/bootstrap.min.css``, ``bootstrap.min.js``
+> ファイルを配出来たなら, ``css/bootstrap.min.css``, ``bootstrap.min.js``
 > の両ファイルを読み込む事.
 > 下記リンクは Twitter Bootstrap の Official Page である.
 >
@@ -48,3 +48,11 @@ CSS は, ブラウザ毎に仕様と設定が異なる為, 予期しない動作
 Twitter Bootstrap を読み込む為のテンプレートは Official Page の HTML
 template という項目にサンプルが存在する為, 読み込み方がわからない場合
 は参照する事.
+
+> 演習 4. メニューバーの作成
+> Bootstrap を使用し, メニューバーを作成する.
+> ``css/bootstrap.min.css`` の他に ``css/bootstrap-responsive.css`` を
+> 読み込む. ただし, 読み込む順番は ``bootstrap-responsive.css`` を後に
+> する.
+>
+> 読み込みの記述後 [ナビゲーションバー作成サンプル](template/navbar.html) を参考にナビゲーションバーを作成する.
