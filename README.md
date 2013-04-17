@@ -77,3 +77,4 @@ class に Twitter Bootstrap によって決められた属性を割りあてる
 > 演習 5. フッターの作成
 > ``<hr>`` タグと ``<footer></footer>`` タグを使いフッターを作成する.
 > その際に style への追記を見落とさない様気を付ける.
+> [フッターサンプル](template/footer.html)
