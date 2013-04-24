@@ -158,9 +158,9 @@ practice ブランチでは, ``echo "echo echo echo" > temp_file``を実行し,
 この時, 下記の様な実行結果が得られる事を確認すること.
 ただし, 同一の結果が得られるわけでは無いので注意する事.
 
-Updating 092bc04..7fe6014
-Fast-forward
- temp_file  | 1 +
- 1 files changed, 1 insertions(+)
- create mode 100644 temp_file
+    Updating 092bc04..7fe6014
+    Fast-forward
+     temp_file  | 1 +
+     1 files changed, 1 insertions(+)
+     create mode 100644 temp_file
 
